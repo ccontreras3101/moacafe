@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+ /* remote: https://rubygems.org/
   specs:
     rack (1.5.2)
     rack-protection (1.5.3)
@@ -18,3 +18,4 @@ DEPENDENCIES
 
 BUNDLED WITH
    1.14.6
+*/
